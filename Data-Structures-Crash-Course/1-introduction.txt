@@ -1,0 +1,21 @@
+Why Are Data Structure Needed
+
+The premise that tech companies operate under is that coding interviews are a good way to test whether the interviewee is a good problem solver
+
+The coding inteviews do not require much theoretical knowledge, the questions could generally be given to someone with no coding knowledge and this person could still solve them conceptually.
+They would be able to understand and tackle them
+
+This does not mean they do not require any theoretical knowledge
+
+Requirements: 
+  - Some Foundation in Programming
+  - Data Structures 
+
+Data Structures are the tools to solve algorhythmic problems
+
+There are entire academic fields dedicated towards Data structures and their mathmatical basis
+
+In the context of coding interviews => You do not need that much knowledge about data structures, It is focused around a few foundational Data structures.
+
+Data Structures are the foundational building blocks you need to tackle coding interview problems and your problem solving ability will help you identify how you need to apply this knowledge.
+

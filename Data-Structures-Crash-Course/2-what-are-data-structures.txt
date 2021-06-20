@@ -1,0 +1,69 @@
+What are Data Structures?
+
+Data Structures rely on a pretty simple concept 
+
+What is coding? - A Simplified Explanation
+
+Coding/ Software Engineering is manipulating data to get a desired outcome.
+
+For example, you may be sending requests to a backend to recieve data and transforming the data into a human readable format then displaying that data for the user.
+
+Example 2 - If you are making an API that stores and retrieves data and returns that data to a client that asks for it 
+
+All that software engineers do is move data from one instance to another
+
+You generally will deal with an input => Then you manipulate the data => and return/ output the manipulation of that data
+
+Manipulating Data involves => Structuring, Organising and Managing Data
+
+----------------------
+Data Structures are just a way organise and manage data - simplistic
+----------------------
+
+As a human being, we interact with data structures every day - examples are emails => You organise your emails in a vertical list, you may have folders, filters, labels, spam => This is a physical example of us organising and structuring your data via a GUI. The code is doing exactly the same thing.
+
+Going back to the Definition in a more specific manner
+
+----------------------
+
+A Data structure is a collection of Data values, the relationships among them, and the functions or operations that can be applied to them. - Wikipedia on Data Structures
+
+---------------------
+
+There are a lot of Different data structures
+
+Linked Lists 
+
+1 => 2 => 3 => 4 => 5
+
+Binary Trees
+
+      5
+    /   \
+  6      4
+/   \   /  \
+7    5 5    3
+
+Arrays
+
+["foobar", "interview", "coding", "practice"]
+
+
+Other Stuff ......
+
+All of the different Data Structures have:
+  - Different relationships between their values
+  - Different functions, methods or operations you can perform on them
+  - They have Names 
+  
+
+We need to:
+  - Be well versed on all the popular Data Structures
+  - Understand their advantages and limitations
+  - Understand their internal relationships
+  - Understand Complexity and Big O
+
+Think of a Data Structure as a container inside that container are Values (Data Values more specifically). On this container we could have a variety of methods/ operations/ functions we could perform on it (depending on the type of container). Inside the container all the values have different relationships depending on the type of container that they are in.
+
+
+

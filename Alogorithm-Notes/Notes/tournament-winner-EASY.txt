@@ -1,0 +1,29 @@
+Tournament Winner
+
+What is the question asking
+
+Tournament taking place,
+- Each team has to play each other once (Round Robin)
+- One home team, 1 away
+- Determine who is the winner of the Tournament
+- There will never be a tie, always one winner
+- 3 points for every win
+
+Code knowledge
+- you are given a competions array which contains the each game and who played
+- each competition Array is dictated like this [Home Team, Away Team]
+- a results away where 1 signifies a home win and 0 signifies an away win 
+e.g.
+
+Competitions = [
+  [HTML, Python],
+  [Python, CSS],
+  [CSS, HTML]
+]
+
+Results = [0, 1, 1]
+
+Python would be the winner of this Tournament
+
+What is needed?
+
